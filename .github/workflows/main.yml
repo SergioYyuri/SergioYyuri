@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/SergioYyuri)
+
 Nome : Gerar Dados
 
 em :
@@ -23,3 +25,4 @@ trabalhos :
           build_dir : dist
         ambiente :
           GITHUB_TOKEN : ${{ segredos.GITHUB_TOKEN }}
+
