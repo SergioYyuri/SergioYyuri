@@ -1,5 +1,5 @@
 - 🔭 Estagio em back-end
-- 🌱 Estudando Python/Go
+- 🌱 Estudando Python/Go/Java
 - 📫 Contate-me no Email: Sergioyuri155@gmail.com
 - 😄 Pronouns: ele/dele
 
